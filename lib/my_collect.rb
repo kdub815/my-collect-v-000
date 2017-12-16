@@ -1,2 +1,3 @@
+def method)(collection)
 
-
+end
